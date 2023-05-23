@@ -10,7 +10,7 @@
 # BASIC INFORMATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 info:
   # Site title
-  title: 艾欧智能
+  title: IO Intelligence
   # Author name
   author:  IO-Intelligence
   # Site URL
@@ -108,7 +108,7 @@ home_banner:
   title: Make a difference
   # Home banner subtitle
   subtitle:
-    text: ["世界因 AI 而不同"] # subtitle text, array
+    text: ["Empowering the future with AI innovation"] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       api: https://v1.hitokoto.cn # API URL, can add types, see https://developer.hitokoto.cn/sentence/#%E5%8F%A5%E5%AD%90%E7%B1%BB%E5%9E%8B-%E5%8F%82%E6%95%B0
@@ -248,7 +248,7 @@ articles:
   author_label: 
     enable: true # Whether to enable
     auto: false # Whether to automatically add author label, e.g. Lv1, Lv2, Lv3...
-    list: ["Dark flame master"]
+    list: ["Future master"]
   # Code block settings
   code_block:
     copy: true # Whether to enable code block copy button
