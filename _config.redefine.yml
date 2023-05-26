@@ -175,7 +175,7 @@ navbar:
     #   icon: fa-regular fa-chart-bar
     About: 
       icon: fa-regular fa-user
-      path: /2023/05/23/about-us/
+      path: /2023/about-us/
       # submenus:
         # Me: /about
         # Github: https://github.com/EvanNotFound/hexo-theme-redefine
